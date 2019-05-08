@@ -1,0 +1,25 @@
+{
+  "name": "@umi-block/sample-table",
+  "version": "0.0.1",
+  "description": "SampleTable",
+  "main": "src/index.js",
+  "authors": {
+    "name": "btc.com",
+    "email": "admin@btc.com"
+  },
+  "repository": "https://github.com/btccom/antd-umi-block-sample-table/sample-table",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    
+    "umi-plugin-block-dev": "^1.0.0",
+    "umi-types": "^0.2.0"
+    
+    },
+  "license": "MIT"
+}
